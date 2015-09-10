@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ConfiguracoesViewController.h
 //  NavigationControllerDemo
 //
 //  Created by Fabricio Nogueira dos Santos on 9/9/15.
@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ConfiguracoesViewController : UIViewController
+- (IBAction)abreDadosAcesso:(id)sender;
 
 @end
-
